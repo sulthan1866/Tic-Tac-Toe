@@ -1,5 +1,7 @@
 A Tic Tac Toe game with different modes
 
+Run the Main.java class to play the game
+
 Regular- Regular Tic Tac Toe game where a player wins if he/she placed their sumbol(X or O) in a row.
 
 No Draw- A Tic Tac Toe game which never draws.It is done by removing the first symbol when more than three symbol has been tried to br placed
